@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "moduleDetection": "force",
+    "strict": true,
+    "noEmit": true,
+    "rootDir": "src",
+  },
+  "include": ["src/**/*.ts"]
+}
